@@ -1,0 +1,78 @@
+{
+  "point": {
+    "Regular person": 1.1798853151473677e-07,
+    "Secret clearance": 3.3088235294117644e-05,
+    "Top Secret clearance": 7.633587786259542e-05,
+    "Fortune 500 senior exec": 0.0022222222222222222,
+    "Family of a Fortune 500 CEO": 0.003,
+    "CEO's assistant / chief of staff": 0.0075,
+    "Fortune 500 CEO": 0.01
+  },
+  "mc": {
+    "Regular person": {
+      "median": 1.0133668993586935e-07,
+      "lo": 1.4441909975599837e-08,
+      "hi": 6.436466806820626e-07
+    },
+    "Secret clearance": {
+      "median": 3.268526066197252e-05,
+      "lo": 6.5128898268815395e-06,
+      "hi": 0.00016215919780041634
+    },
+    "Top Secret clearance": {
+      "median": 7.598244714787281e-05,
+      "lo": 1.5392552229853196e-05,
+      "hi": 0.00037240941914905827
+    },
+    "Fortune 500 senior exec": {
+      "median": 0.0013387988182913784,
+      "lo": 4.674651994306954e-05,
+      "hi": 0.014569400379184179
+    },
+    "Family of a Fortune 500 CEO": {
+      "median": 0.0015389368061064375,
+      "lo": 2.3647277589933203e-05,
+      "hi": 0.02050157381891039
+    },
+    "CEO's assistant / chief of staff": {
+      "median": 0.003746587637633735,
+      "lo": 5.870107963324611e-05,
+      "hi": 0.05050371068657388
+    },
+    "Fortune 500 CEO": {
+      "median": 0.003493640672206532,
+      "lo": 9.547499658817375e-06,
+      "hi": 0.07234511871293717
+    }
+  },
+  "flags": {
+    "Asks what you do at work": 1.05,
+    "Uses a VPN": 1.3,
+    "Is 'mysterious'": 1.2,
+    "Has two phones": 3.0,
+    "Very interested in your security clearance": 25.0,
+    "Asked for your laptop password on date one": 40.0
+  },
+  "posterior_all_flags": {
+    "Regular person": 0.0005794597439976568,
+    "Secret clearance": 0.1398596533393208,
+    "Top Secret clearance": 0.27280297562871264,
+    "Fortune 500 senior exec": 0.9162782024986015,
+    "Family of a Fortune 500 CEO": 0.9366541711671644,
+    "CEO's assistant / chief of staff": 0.9737763392562256,
+    "Fortune 500 CEO": 0.9802513464991023
+  },
+  "posterior_weak_flags": {
+    "Regular person": 1.9326520007277563e-07,
+    "Secret clearance": 5.419738528902085e-05,
+    "Top Secret clearance": 0.00012503207859037094,
+    "Fortune 500 senior exec": 0.003634846595271592,
+    "Family of a Fortune 500 CEO": 0.004904612571538077,
+    "CEO's assistant / chief of staff": 0.012226496215608314,
+    "Fortune 500 CEO": 0.016276158111250223
+  },
+  "comparisons": {
+    "Lightning strike in a year (NWS)": 8.183306055646482e-07,
+    "Fortnite Pirate Token per chest (Epic)": 7.272727272727272e-06
+  }
+}
